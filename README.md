@@ -8,4 +8,6 @@ It then parses the image and creates 64 "coordinates" where 1 represents Black a
 
 Images are stored in a data structure I call imagePlot. Each imagePlot has an array of 64 ints of coordinates, a string to hold the name, and a pointer to an imagePlot. The way these are stored are in a Linked List, so I would not recommend keeping this open for too long. 
 
+I added a few images that I used to test it out.
+
 I hope you enjoy playing around with it as much as I did making it!
